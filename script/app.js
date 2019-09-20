@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mute Medium Signup Overlay
 // @namespace    https://greasyfork.org/zh-TW/users/79288
-// @version      1.0
+// @version      1.1
 // @description  Mute Medium's annoying signup overlay
 // @author       jlhg
 // @match        https://medium.com/@*
@@ -16,6 +16,7 @@
       let button = buttons[i];
       if (button.querySelector('svg[class="x-29px_svg__svgIcon-use"]')) {
         button.click();
+        break;
       }
     }
   }
