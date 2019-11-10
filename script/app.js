@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mute Medium Signup Overlay
 // @namespace    https://greasyfork.org/zh-TW/users/79288
-// @version      1.2
+// @version      1.3
 // @description  Mute Medium's annoying signup overlay
 // @author       jlhg
 // @match        https://medium.com/@*
