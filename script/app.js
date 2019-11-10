@@ -6,6 +6,7 @@
 // @author       jlhg
 // @match        https://medium.com/@*
 // @match        https://*.medium.com/*
+// @match        https://towardsdatascience.com/*
 // ==/UserScript==
 
 (function() {
